@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G4KShG8bDrkd6qOFvl1KFiwP9e9dxBKpGdp+jVuMsbtCCxL7Fw8Bb5EAeFq7zkwXia1QnjLQSeIdULOqLiD1+g==",
+  "success": true,
+  "projectFilePath": "C:\\___Avanade\\REPO_TESTE_DEPLOY\\Lab_Treinamento\\LAB_Academia_Sonar\\LAB_Academia_Sonar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luana.correa.vieira\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
